@@ -1,4 +1,4 @@
-# Subtitle Downloader by IMDb ID / Descargador de Subtítulos por ID de IMDb
+# Subtitle Downloader by IMDb ID
 
 ---
 
